@@ -1,0 +1,121 @@
+{
+  "dogs": [
+    {
+      "name": "Elle",
+      "age": 10,
+      "image": "https://images.dog.ceo/breeds/groenendael/n02105056_7355.jpg",
+      "description": "Elle is a healthy dog who will make any owner happy to be her owner.",
+      "isAdopted": true,
+      "gender": "female",
+      "size": "large",
+      "id": 1
+    },
+    {
+      "name": "Cooper",
+      "age": 10,
+      "image": "https://images.dog.ceo/breeds/dhole/n02115913_3998.jpg",
+      "isAdopted": true,
+      "description": "Cooper is an energetic dog that'll keep any dog on their tows.",
+      "gender": "male",
+      "size": "medium",
+      "id": 2
+    },
+    {
+      "name": "Sophie",
+      "age": 1,
+      "image": "https://images.dog.ceo/breeds/lhasa/n02098413_14785.jpg",
+      "isAdopted": false,
+      "description": "Sophie is a sweetheart of a dog that can make you laugh and cry at the same time, in a good way!",
+      "gender": "female",
+      "size": "large",
+      "id": 3
+    },
+    {
+      "name": "Blaster",
+      "age": 5,
+      "image": "https://images.dog.ceo/breeds/terrier-tibetan/n02097474_124.jpg",
+      "isAdopted": false,
+      "gender": "male",
+      "description": "Blaster loves his ball and an keep you entertained for hours on end.",
+      "size": "large",
+      "id": 4
+    },
+    {
+      "name": "Max",
+      "age": 6,
+      "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/16191840/Newfoundland-onWhite-012-1.jpg",
+      "isAdopted": false,
+      "description": "Max is a husky pup that loves to play!",
+      "gender": "male",
+      "size": "small",
+      "id": 5
+    },
+    {
+      "name": "Boomer",
+      "age": 15,
+      "image": "https://www.petmd.com/sites/default/files/Acute-Dog-Diarrhea-47066074.jpg",
+      "isAdopted": true,
+      "description": "Boomer is a cute chubby dog that will be loyal kind dog.",
+      "gender": "male",
+      "size": "medium",
+      "id": 6
+    },
+    {
+      "name": "Chloe",
+      "age": 3,
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2018/2-dog.jpg",
+      "isAdopted": false,
+      "description": "Chloe has lots of energy! She's from the desert and loves to play and take long walks! ",
+      "gender": "female",
+      "size": "small",
+      "id": 7
+    },
+    {
+      "name": "Brisket",
+      "age": 4,
+      "image": "https://d1941uuft27pfg.cloudfront.net/breed-uploads/2018/08/basenji-card-large.jpg",
+      "isAdopted": false,
+      "description": "Brisket is fun pup! He's bonded with his sister, Lola! He love to play fetch and snuggle on the couch! ",
+      "gender": "male",
+      "size": "large",
+      "id": 8
+    },
+    {
+      "name": "Lola",
+      "age": 3,
+      "image": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/09/dog-landing-hero-lg.jpg",
+      "isAdopted": false,
+      "description": "Lola is so sweet! She loves to play and is bonded with her brother, Brisket! She likes to counter surf and has eaten a loaf of bread in one sitting.",
+      "gender": "female",
+      "size": "small",
+      "id": 9
+    },
+    {
+      "name": "Holly",
+      "age": 1,
+      "image": "https://media.vanityfair.com/photos/5d3b1e3c5989820008deb9eb/5:3/w_1125,h_675,c_limit/00-lead-brandy.jpg",
+      "isAdopted": false,
+      "description": "Holly is a young energentic pup! She loves to play tug and ball. She is still learning house manners.",
+      "gender": "female",
+      "size": "small",
+      "id": 10
+    },
+    {
+      "name": "Buster",
+      "gender": "Male",
+      "size": "Medium",
+      "about": "Buster is a smart dog!",
+      "id": 11
+    },
+    {
+      "name": "Humphrey",
+      "gender": "Male",
+      "size": "Medium",
+      "about": "A spoiled dog",
+      "image": "https://www.yourobserver.com/sites/default/files/styles/sliders_and_planned_story_image_870x580/public/261833_standard.jpeg",
+      "age": "12",
+      "id": 12,
+      "isAdopted": true
+    }
+  ]
+}
